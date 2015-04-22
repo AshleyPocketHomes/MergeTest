@@ -1,1 +1,1 @@
-Hi. Change from branch2
+Hi
